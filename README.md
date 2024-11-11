@@ -145,9 +145,25 @@ ls -l
 cat /etc/group
 chown debora:GRP_ADM /adm/
 
+# ____________________ Permissões ____________________________ 
+
+### Exemplo:
+
+	-rwxr-xr-x 1 root root 385 nov 11 16:08 criar_users.sh
+| DONO | R - Leitura | W - Escrita  | X - Execução |
+|-|-|-|-|
+| GRUPO | R - Leitura | W - Escrita  | X - Execução |
+| OUTROS | R - Leitura | W - Escrita  | X - Execução |
 
 
+| LEITURA (R) |4 |
+|-|-|
+| GRAVAÇÃO (W) | 2 |
+| EXECUÇÃO (X) | 1 |
+| NENHUMA | 0 |
 
+	chmod 750 /adm/
+ 
 
 
 
