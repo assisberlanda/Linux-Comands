@@ -1,6 +1,7 @@
 # Linux-Comands
 Linux Fundamentals
-
+### [Criando e gerenciando usuários no GNU/Linux](https://www.infowester.com/usuarioslinux.php)
+### [Principais comandos do Linux](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
 pwd # visualiza o caminho atual
 	
 cd / # vai para o diretório root
