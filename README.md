@@ -2,6 +2,12 @@
 Linux Fundamentals
 ### [Criando e gerenciando usuários no GNU/Linux](https://www.infowester.com/usuarioslinux.php)
 ### [Principais comandos do Linux](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
+### [Gerência de Pacotes](https://docente.ifrn.edu.br/filiperaulino/disciplinas/isa-redes2n/linux-07-gerencia-de-pacotes)
+### [Processos no Linux](https://www.infowester.com/linprocessos.php)
+### []()
+
+
+
 pwd # visualiza o caminho atual
 	
 cd / # vai para o diretório root
