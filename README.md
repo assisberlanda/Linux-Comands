@@ -1,5 +1,5 @@
 # Linux-Comands
-Linux Fundamentals [Distrôs Linux](https://programadorviking.com.br/distros-linux-para-desenvolvedores/)
+Linux Fundamentals [Distros Linux](https://programadorviking.com.br/distros-linux-para-desenvolvedores/)
 ### [Criando e gerenciando usuários no GNU/Linux](https://www.infowester.com/usuarioslinux.php)
 ### [Principais comandos do Linux](https://www.linux.ime.usp.br/~albasalo/Apostila/apostila.pdf)
 ### [Gerência de Pacotes](https://docente.ifrn.edu.br/filiperaulino/disciplinas/isa-redes2n/linux-07-gerencia-de-pacotes)
